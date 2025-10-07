@@ -9,12 +9,12 @@ This write-up demonstrates how to build a basic home lab that can be tailored to
 
 
 # Software and Hardware Needed
-VirtualBox
-Windows 10 ISO
-Kali Linux (Prebuilt VirtualBox Version)
-7zip
-4 GB of RAM
-50 GB Disk Space
+* VirtualBox
+* Windows 10 ISO
+* Kali Linux (Prebuilt VirtualBox Version)
+* 7zip
+* 4 GB of RAM
+* 50 GB Disk Space
 
 
 
